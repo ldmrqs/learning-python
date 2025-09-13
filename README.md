@@ -11,6 +11,7 @@ This is my personal learning journey through Python fundamentals. After relying 
 ## 🔗 Resources
 
 - [Python Official Documentation](https://docs.python.org/3/)
+- [Python Progressivo](www.pythonprogressivo.net)
 
 *This repository is my commitment to genuine learning. No shortcuts, no vibe-coding, just real understanding.*
 
