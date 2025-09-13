@@ -14,5 +14,3 @@ This is my personal learning journey through Python fundamentals. After relying 
 
 *This repository is my commitment to genuine learning. No shortcuts, no vibe-coding, just real understanding.*
 
-**Started:** January 2025  
-**Status:** 🟢 Actively Learning
