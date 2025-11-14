@@ -16,4 +16,4 @@ I won't let my knowledge gap on programming control me anymore.
 * I'm following the AI Engineer Path on Campus, learning Python from the start.
 * I'll be reading Python books, participating in forums, sites.
 
->** I won't give up, I'll keep on learning and coming back up as much as I need to.**
+> I won't give up, I'll keep on learning and coming back up as much as I need to.
