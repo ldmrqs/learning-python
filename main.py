@@ -44,3 +44,5 @@ Meta Q2: Primeiro modelo ML
 Meta Q3: Projeto AIOps simples
 Sonho: AI Agent autônomo para investigação e AI Evals
 """
+
+
