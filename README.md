@@ -1,17 +1,19 @@
-# 🐍 Learning Python
+# Learning Python
+Python is not hard, but learning how to code it is. I quit a thousand times, I feel my brain **slowing dying** because of AI.
 
-> **"AI is supposed to be my best friend, a companion, and not my brain."**
+I hate the feeling of not being able to understand code in a daily basis and run to AI to solve everything for me, **I'll quit it.**
 
-## 📚 About This Repository
+I won't let my knowledge gap on programming control me anymore.
 
-This is my personal learning journey through Python fundamentals. After relying too heavily on AI-powered coding assistants (vibe-coding), I decided to take a step back and build a solid foundation in Python from scratch.
+# This is my frest start.
 
-**Goal:** Master Python fundamentals to become a better AI Engineer who understands the code, not just generates it.
+# Objective
+* Master Python by November of 2026.
+* I want to become an AI/ML Engineer focused on AIOps, Observability and Infrastructure Automation, combining my passion for DevOps.
 
-## 🔗 Resources
+# Resources
+* I'm using **NotebookLM** as my study buddy fulled with Python sources.
+* I'm following the AI Engineer Path on Campus, learning Python from the start.
+* I'll be reading Python books, participating in forums, sites.
 
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Python Progressivo](www.pythonprogressivo.net)
-
-*This repository is my commitment to genuine learning. No shortcuts, no vibe-coding, just real understanding.*
-
+>** I won't give up, I'll keep on learning and coming back up as much as I need to.**
