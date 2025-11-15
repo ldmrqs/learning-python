@@ -16,8 +16,8 @@ I won't let my knowledge gap on programming control me anymore.
 - [ ] Create an AI agent that will recomend me music based on my music taste with an API.
 ----
 # Resources
-* I'm using **NotebookLM** as my study buddy fulled with Python sources.
-* I'm following the AI Engineer Path on Campus, learning Python from the start.
-* I'll be reading Python books, participating in forums, sites.
+* [w3schools.com](https://www.w3schools.com/python/default.asp)
+* [the complete guide to master python](https://www.udemy.com/course/professional-python-guide/?couponCode=KEEPLEARNINGBR)
+* [python documentation](https://docs.python.org/3/tutorial/index.html)
 ---
 > I won't give up, I'll keep on learning and coming back up as much as I need to.
