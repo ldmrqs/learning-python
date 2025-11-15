@@ -12,7 +12,8 @@ I won't let my knowledge gap on programming control me anymore.
 
 ---
 # Projects I need to do in order to show that **I'm actually learning**
-- [ ] A script to organize my obsidian files. 
+- [ ] A script to organize my obsidian files.
+- [ ] Create an AI agent that will recomend me music based on my music taste with an API.
 ----
 # Resources
 * I'm using **NotebookLM** as my study buddy fulled with Python sources.
