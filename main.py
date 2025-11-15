@@ -35,14 +35,4 @@ hoje = datetime.date.today()
 print(f"Iniciando jornada em {hoje}")
 print("Meta: Dominar Python para AI Engineering!")
 
-# MEU ROADMAP PESSOAL
-"""
-Status: Fundamentos Python
-Próximo: Estruturas de Dados
-Meta Q1: NumPy/Pandas
-Meta Q2: Primeiro modelo ML
-Meta Q3: Projeto AIOps simples
-Sonho: AI Agent autônomo para investigação e AI Evals
-"""
-
 
