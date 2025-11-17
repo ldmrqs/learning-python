@@ -5,3 +5,4 @@ if user_input == "ygona" or "a ygona":
         print("Gosto assim, caralho!")
 
 # fiz isso aqui de zoeira
+

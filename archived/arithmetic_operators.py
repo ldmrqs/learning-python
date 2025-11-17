@@ -29,9 +29,15 @@ print(a)
 # comparison operators
 print( 10 == 5) # two equals it will return false
 print(10 == 10) # it will return true
-
+ 
 print(10 != 11) # checks whether is not equal to
 print(9 < 10) # checks whether is smaller than
 print(10 > 15) # checks whether is bigger than
 
 print(a < b and 10 > 6) # it will return true
+
+numbers = [1, 2, 3, 4, 5]
+print(5 in numbers) # it will turn True because 5 is in the list
+
+Numbers = [1, 2, 3, 4, 5]
+print(10 in Numbers) # it will turn False because 10 is not in the list
